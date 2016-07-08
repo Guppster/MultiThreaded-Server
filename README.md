@@ -13,10 +13,10 @@ multiply it by 10 and return the result back to the client.
 Program should not use busy waiting.
 
 ##Purpose:
-(1) to learn how to use the pthreads library to manage threads 
-(2) to understand how to create a multi-threaded server 
-(3) to understand how and where to use basic thread synchronization 
-(4) to gain practice with client software that can issue multiple requests over a socket.
+1. Learn how to use the pthreads library to manage threads 
+2. Understand how to create a multi-threaded server 
+3. Understand how and where to use basic thread synchronization 
+4. Gain practice with client software that can issue multiple requests over a socket.
 
 ##Usage:
 *Server Command Line Input:* Port number that will be used to listen on, number of

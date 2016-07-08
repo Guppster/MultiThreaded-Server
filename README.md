@@ -21,6 +21,7 @@ Program should not use busy waiting.
 ##Usage:
 *Server Command Line Input:* Port number that will be used to listen on, number of
 threads, size of connection array
+
 *Client Command Line Input:* Server’s host name, port number and the number to be
 multiplied
 

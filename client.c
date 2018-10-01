@@ -8,6 +8,7 @@
 #include <unistd.h>
 #include <errno.h>
 #include <arpa/inet.h> 
+#include <err.h>
 
 #define MAX_MSG_SIZE 1024
 
